@@ -1,0 +1,220 @@
+{
+ "revenue": {
+  "2023": 4564423.9,
+  "2024": 7238411.19
+ },
+ "gross_margin": {
+  "2023": 0.3018,
+  "2024": 0.2486
+ },
+ "operating_margin": {
+  "2023": 0.0907,
+  "2024": 0.0521
+ },
+ "operating_profit": {
+  "2023": 413981.61,
+  "2024": 377259.11
+ },
+ "rev_growth": 0.5858,
+ "bridge_pp": {
+  "COGS (mix + supplier inflation)": -5.3186,
+  "Freight cost": 0.179,
+  "Marketing spend": -1.8191,
+  "Salaries": 2.055,
+  "Admin & other": 1.0459
+ },
+ "mix_effect_pp": -2.5919,
+ "discount": {
+  "2023": 0.0608,
+  "2024": 0.0761
+ },
+ "discount_channel": {
+  "2023": {
+   "Distributor": 0.0881,
+   "Online": 0.044,
+   "Retail": 0.0638
+  },
+  "2024": {
+   "Distributor": 0.1239,
+   "Online": 0.0515,
+   "Retail": 0.0718
+  }
+ },
+ "freight_region": {
+  "2023": {
+   "East": 0.0408,
+   "North": 0.0429,
+   "South": 0.0446,
+   "West": 0.0504
+  },
+  "2024": {
+   "East": 0.0362,
+   "North": 0.0374,
+   "South": 0.0486,
+   "West": 0.0509
+  }
+ },
+ "cat_share": {
+  "2023": {
+   "Accessories": 0.1039,
+   "Electronics": 0.6773,
+   "Furniture": 0.2188
+  },
+  "2024": {
+   "Accessories": 0.072,
+   "Electronics": 0.7628,
+   "Furniture": 0.1652
+  }
+ },
+ "cat24": {
+  "revenue": {
+   "Accessories": 521174.35,
+   "Electronics": 5521103.45,
+   "Furniture": 1196133.39
+  },
+  "contribution_margin": {
+   "Accessories": 0.5753,
+   "Electronics": 0.1599,
+   "Furniture": 0.2589
+  }
+ },
+ "reg24": {
+  "revenue": {
+   "East": 1874217.77,
+   "North": 2197201.18,
+   "South": 1785596.02,
+   "West": 1381396.22
+  },
+  "contribution_margin": {
+   "East": 0.2083,
+   "North": 0.2099,
+   "South": 0.2014,
+   "West": 0.2037
+  }
+ },
+ "ch24": {
+  "revenue": {
+   "Distributor": 1746663.1,
+   "Online": 3275252.23,
+   "Retail": 2216495.86
+  },
+  "contribution_margin": {
+   "Distributor": 0.1604,
+   "Online": 0.2286,
+   "Retail": 0.2092
+  }
+ },
+ "impact": {
+  "1. Discount discipline (cap Distributor discount at FY23 level)": 71427.3653,
+  "2. Electronics 2% price/cost improvement (assumes no volume loss)": 110422.069,
+  "3. Hold marketing at FY23 % of revenue": 131673.3926
+ },
+ "total_upside": 313522.8269,
+ "new_margin": 0.0954,
+ "monthly": {
+  "month": [
+   "Jan-23",
+   "Feb-23",
+   "Mar-23",
+   "Apr-23",
+   "May-23",
+   "Jun-23",
+   "Jul-23",
+   "Aug-23",
+   "Sep-23",
+   "Oct-23",
+   "Nov-23",
+   "Dec-23",
+   "Jan-24",
+   "Feb-24",
+   "Mar-24",
+   "Apr-24",
+   "May-24",
+   "Jun-24",
+   "Jul-24",
+   "Aug-24",
+   "Sep-24",
+   "Oct-24",
+   "Nov-24",
+   "Dec-24"
+  ],
+  "revenue": [
+   298362.0,
+   345904.0,
+   310319.0,
+   337236.0,
+   357253.0,
+   371957.0,
+   400538.0,
+   419105.0,
+   407740.0,
+   430240.0,
+   422320.0,
+   463452.0,
+   494308.0,
+   519614.0,
+   497407.0,
+   577698.0,
+   586767.0,
+   567757.0,
+   646029.0,
+   643483.0,
+   667281.0,
+   657020.0,
+   678138.0,
+   702910.0
+  ],
+  "gross_margin_pct": [
+   32.71,
+   31.14,
+   33.45,
+   31.53,
+   31.11,
+   30.34,
+   30.03,
+   29.08,
+   29.08,
+   29.24,
+   28.71,
+   28.12,
+   26.84,
+   26.72,
+   27.17,
+   25.22,
+   25.35,
+   24.99,
+   24.32,
+   24.23,
+   24.2,
+   23.96,
+   23.96,
+   23.07
+  ],
+  "operating_margin_pct": [
+   10.21,
+   10.39,
+   10.32,
+   9.84,
+   9.97,
+   9.17,
+   9.39,
+   8.98,
+   8.11,
+   8.56,
+   7.36,
+   7.86,
+   6.93,
+   7.07,
+   6.48,
+   6.03,
+   6.01,
+   5.18,
+   5.39,
+   4.68,
+   4.79,
+   4.18,
+   4.01,
+   3.28
+  ]
+ }
+}
